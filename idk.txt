@@ -33,3 +33,30 @@
     <img src="images/BG6.jpg" alt="Home" style="width:100%">
     
     -------------------------------------------------------
+
+    <!-- Links (sit on top) -->
+    <div class="w3-top">
+        <div class="w3-row w3-padding w3-black">
+            <div class="w3-col s3">
+                <a href="#" class="w3-button w3-block w3-black">HOME</a>
+            </div>
+            <div class="w3-col s3">
+                <a href="#about" class="w3-button w3-block w3-black">ABOUT</a>
+            </div>
+            <div class="w3-col s3">
+                <a href="#menu" class="w3-button w3-block w3-black">WHERE</a>
+            </div>
+            <div class="w3-col s3">
+                <a href="#where" class="w3-button w3-block w3-black">LOGIN</a>
+            </div>
+        </div>
+    </div>
+
+    <header class="w3-display-container w3-content w3-center" style="max-width:1920px">
+        <img class="images" src="images/BG6.jpg" alt="BGHead" width="1920" height="600">
+        <div class="w3-display-middle w3-padding-large w3-border w3-wide w3-text-black w3-center">
+            <h1 class="w3-hide-medium w3-hide-small w3-xxxlarge">PHUANGNGERN RENTAL</h1>
+            <h5 class="w3-hide-large" style="white-space:nowrap">PHUANGNGERN RENTAL</h5>
+            <h3 class="w3-hide-medium w3-hide-small">YOUR WELCOME</h3>
+        </div>   
+    </header>
